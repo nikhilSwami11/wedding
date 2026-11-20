@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --silk: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9 .35' numOctaves='3' seed='4'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>"); }
+html { background: #0e2a38; -webkit-text-size-adjust: 100%; }
+body { margin: 0; font-family: Montserrat, system-ui, sans-serif; color: #f4ecd8; overflow-x: hidden; }
+
+/* painted textures */
+.silk { background-color: #4f9a90; background-image: var(--silk), radial-gradient(120% 80% at 50% 0%, #6fb5a8 0%, #3f877f 60%, #2f6f69 100%); background-blend-mode: soft-light, normal; }
+.gouache-sky { background: linear-gradient(180deg, #123f78 0%, #2a69b5 38%, #6c93c9 66%, #e9a96b 100%); position: relative; }
+.gouache-sky::after { content: ""; position: absolute; inset: 0; background-image: var(--silk); background-size: 220px; mix-blend-mode: soft-light; opacity: .7; pointer-events: none; }
+
+/* paper lanterns */
+.lt { position: absolute; width: var(--w); height: calc(var(--w) * 1.5); border-radius: 38% 38% 34% 34% / 22% 22% 26% 26%;
+  background: radial-gradient(ellipse at 50% 58%, #fff3b0 0%, #ffc04a 38%, #ff8a1c 72%, #d9541a 100%);
+  box-shadow: 0 0 calc(var(--w) * .7) calc(var(--w) * .12) rgba(255, 160, 40, .55), inset 0 0 calc(var(--w) * .25) rgba(255, 255, 255, .35);
+  filter: blur(var(--blur, 0px)); opacity: var(--o, 1); will-change: transform; }
+.lt::before, .lt::after { content: ""; position: absolute; left: 14%; right: 14%; height: 7%; background: #b5651d; border-radius: 3px; opacity: .85; }
+.lt::before { top: -2%; } .lt::after { bottom: -2%; }
+
+.title-caps { font-family: Cinzel, Georgia, serif; letter-spacing: .22em; text-transform: uppercase; }
+.pill { display: inline-flex; align-items: center; gap: .5rem; border-radius: 9999px; padding: .85rem 1.6rem; font-weight: 500; letter-spacing: .04em; transition: transform .2s, background .2s; }
+.pill:active { transform: scale(.97); }
+
+/* motion is scroll-driven only: no ambient loops anywhere */
+main *, main *::before, main *::after { animation: none !important; }
+
+/* text that sits on paintings: a tight dark edge plus a soft halo, so thin letters stay readable on any part of the picture */
+.legible { text-shadow: 0 1px 2px rgba(10, 4, 8, .75), 0 2px 14px rgba(10, 4, 8, .6), 0 0 34px rgba(10, 4, 8, .45); }
+/* the original soft glow behind the hero title: light letters, quiet shadow */
+.soft-shadow { text-shadow: 0 3px 22px rgba(20, 10, 40, .6); }

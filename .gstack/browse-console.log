@@ -1,0 +1,404 @@
+[2026-11-20T02:42:26.748Z] [debug] [vite] connecting...
+[2026-11-20T02:42:26.841Z] [debug] [vite] connected.
+[2026-11-20T02:42:26.942Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T02:43:24.543Z] [debug] [vite] connecting...
+[2026-11-20T02:43:24.551Z] [debug] [vite] connected.
+[2026-11-20T02:43:24.672Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T02:44:25.964Z] [debug] [vite] hot updated: /src/App.tsx
+[2026-11-20T02:44:25.964Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T02:44:25.965Z] [debug] [vite] hot updated: /src/sections/FeastScene.tsx
+[2026-11-20T02:44:25.965Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T02:44:33.950Z] [debug] [vite] connecting...
+[2026-11-20T02:44:33.987Z] [debug] [vite] connected.
+[2026-11-20T02:44:34.025Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T02:46:17.216Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T02:46:17.217Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T02:46:18.574Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T02:46:18.574Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T02:46:18.574Z] [debug] [vite] hot updated: /src/sections/VenueSection.tsx
+[2026-11-20T02:46:18.574Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T02:46:18.574Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T02:46:18.574Z] [debug] [vite] hot updated: /src/sections/FooterSection.tsx
+[2026-11-20T02:46:18.578Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T02:46:18.578Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T02:46:55.762Z] [debug] [vite] connecting...
+[2026-11-20T02:46:55.780Z] [debug] [vite] connected.
+[2026-11-20T02:46:55.896Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T02:47:07.087Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T03:03:14.689Z] [debug] [vite] connecting...
+[2026-11-20T03:03:14.719Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:03:15.792Z] [debug] [vite] connecting...
+[2026-11-20T03:03:15.964Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:03:20.030Z] [debug] [vite] connected.
+[2026-11-20T03:05:13.361Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T03:05:13.419Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T03:06:08.099Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T03:06:08.099Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T03:06:12.352Z] [debug] [vite] connecting...
+[2026-11-20T03:06:12.387Z] [debug] [vite] connected.
+[2026-11-20T03:06:12.616Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:06:20.443Z] [debug] [vite] connecting...
+[2026-11-20T03:06:20.453Z] [debug] [vite] connected.
+[2026-11-20T03:06:20.571Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:06:47.757Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T03:12:25.794Z] [debug] [vite] connecting...
+[2026-11-20T03:12:25.916Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:12:26.813Z] [debug] [vite] connecting...
+[2026-11-20T03:12:26.915Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:12:31.197Z] [debug] [vite] connected.
+[2026-11-20T03:12:39.344Z] [debug] [vite] connecting...
+[2026-11-20T03:12:39.467Z] [debug] [vite] connected.
+[2026-11-20T03:12:39.467Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/sections/VenueSection.tsx
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/sections/FooterSection.tsx
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T03:13:45.203Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T03:13:50.101Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T03:20:06.095Z] [debug] [vite] connecting...
+[2026-11-20T03:20:06.211Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:20:06.813Z] [debug] [vite] connecting...
+[2026-11-20T03:20:06.936Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:20:08.239Z] [debug] [vite] connected.
+[2026-11-20T03:20:31.642Z] [debug] [vite] connecting...
+[2026-11-20T03:20:31.736Z] [debug] [vite] connected.
+[2026-11-20T03:20:31.783Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:21:26.251Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T03:21:26.483Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T03:21:26.483Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T03:21:27.888Z] [debug] [vite] connecting...
+[2026-11-20T03:21:27.935Z] [debug] [vite] connected.
+[2026-11-20T03:21:28.035Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:21:45.477Z] [debug] [vite] connecting...
+[2026-11-20T03:21:45.545Z] [debug] [vite] connected.
+[2026-11-20T03:21:45.608Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:22:07.002Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T03:23:04.506Z] [debug] [vite] connecting...
+[2026-11-20T03:23:04.506Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:23:04.743Z] [debug] [vite] connected.
+[2026-11-20T03:23:06.598Z] [debug] [vite] connecting...
+[2026-11-20T03:23:06.613Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:23:06.874Z] [debug] [vite] connected.
+[2026-11-20T03:23:19.184Z] [debug] [vite] connecting...
+[2026-11-20T03:23:19.197Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:23:19.417Z] [debug] [vite] connected.
+[2026-11-20T03:23:45.975Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T03:23:45.975Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T03:23:55.248Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T03:23:55.248Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T03:23:56.479Z] [debug] [vite] connecting...
+[2026-11-20T03:23:56.497Z] [debug] [vite] connected.
+[2026-11-20T03:23:56.570Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:24:06.183Z] [debug] [vite] connecting...
+[2026-11-20T03:24:06.281Z] [debug] [vite] connected.
+[2026-11-20T03:24:06.350Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:24:23.718Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T03:26:25.014Z] [debug] [vite] connecting...
+[2026-11-20T03:26:25.015Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:26:25.399Z] [debug] [vite] connected.
+[2026-11-20T03:26:25.533Z] [debug] [vite] connecting...
+[2026-11-20T03:26:25.555Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:26:26.093Z] [debug] [vite] connected.
+[2026-11-20T03:26:41.712Z] [debug] [vite] connecting...
+[2026-11-20T03:26:41.727Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:26:43.989Z] [debug] [vite] connecting...
+[2026-11-20T03:26:44.014Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:26:48.928Z] [debug] [vite] connected.
+[2026-11-20T03:27:39.071Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T03:43:36.952Z] [debug] [vite] connecting...
+[2026-11-20T03:43:36.953Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:43:38.216Z] [debug] [vite] connecting...
+[2026-11-20T03:43:38.369Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:43:42.195Z] [debug] [vite] connected.
+[2026-11-20T03:43:54.531Z] [debug] [vite] connecting...
+[2026-11-20T03:43:54.539Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T03:43:57.593Z] [debug] [vite] connected.
+[2026-11-20T03:44:20.304Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:01:37.054Z] [debug] [vite] connecting...
+[2026-11-20T04:01:37.099Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:01:39.334Z] [debug] [vite] connecting...
+[2026-11-20T04:01:39.466Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:01:40.830Z] [debug] [vite] connected.
+[2026-11-20T04:02:25.756Z] [debug] [vite] hot updated: /src/components/PageBackdrop.tsx
+[2026-11-20T04:02:25.756Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:02:27.169Z] [debug] [vite] connecting...
+[2026-11-20T04:02:27.282Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:02:29.423Z] [debug] [vite] connected.
+[2026-11-20T04:02:37.404Z] [debug] Search endpoint requested!
+[2026-11-20T04:03:18.348Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:06:27.079Z] [debug] [vite] connecting...
+[2026-11-20T04:06:27.079Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:06:28.073Z] [debug] [vite] connected.
+[2026-11-20T04:06:28.736Z] [debug] [vite] connecting...
+[2026-11-20T04:06:28.881Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:06:32.867Z] [debug] [vite] connected.
+[2026-11-20T04:06:39.354Z] [debug] Search endpoint requested!
+[2026-11-20T04:06:47.448Z] [debug] [vite] connecting...
+[2026-11-20T04:06:47.455Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:06:47.772Z] [debug] [vite] connected.
+[2026-11-20T04:06:57.761Z] [debug] Search endpoint requested!
+[2026-11-20T04:09:02.357Z] [debug] [vite] hot updated: /src/sections/VenueSection.tsx
+[2026-11-20T04:09:02.357Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.390Z] [debug] [vite] hot updated: /src/sections/FeastScene.tsx
+[2026-11-20T04:09:02.390Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.392Z] [debug] [vite] hot updated: /src/components/PageBackdrop.tsx
+[2026-11-20T04:09:02.392Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.458Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T04:09:02.470Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.714Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.714Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T04:09:02.714Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:09:02.714Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T04:09:02.714Z] [debug] [vite] hot updated: /src/sections/FooterSection.tsx
+[2026-11-20T04:09:02.714Z] [debug] [vite] hot updated: /src/sections/VenueSection.tsx
+[2026-11-20T04:09:02.717Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T04:09:02.717Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:09:02.719Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.720Z] [debug] [vite] hot updated: /src/components/Decor.tsx
+[2026-11-20T04:09:02.723Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.723Z] [debug] [vite] hot updated: /src/components/CastleBackdrop.tsx
+[2026-11-20T04:09:02.724Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.728Z] [debug] [vite] hot updated: /src/components/SacredFire.tsx
+[2026-11-20T04:09:02.738Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.738Z] [debug] [vite] hot updated: /src/components/FloatingLanterns.tsx
+[2026-11-20T04:09:02.740Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.743Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.754Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.755Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.755Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:09:02.755Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.756Z] [debug] [vite] hot updated: /src/sections/FooterSection.tsx
+[2026-11-20T04:09:02.756Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.756Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T04:09:02.756Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.757Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T04:09:02.757Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.757Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:02.758Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:09:02.758Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:23.891Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T04:09:23.891Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.815Z] [debug] [vite] hot updated: /src/components/PageBackdrop.tsx
+[2026-11-20T04:09:44.815Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.831Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T04:09:44.832Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.862Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:09:44.863Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.877Z] [debug] [vite] hot updated: /src/sections/FeastScene.tsx
+[2026-11-20T04:09:44.877Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.881Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:09:44.881Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.885Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.885Z] [debug] [vite] hot updated: /src/components/SacredFire.tsx
+[2026-11-20T04:09:44.958Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T04:09:44.958Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.985Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.985Z] [debug] [vite] hot updated: /src/components/FloatingLanterns.tsx
+[2026-11-20T04:09:44.986Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:44.986Z] [debug] [vite] hot updated: /src/components/Decor.tsx
+[2026-11-20T04:09:58.924Z] [debug] [vite] hot updated: /src/App.tsx
+[2026-11-20T04:09:58.924Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:58.926Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:58.938Z] [error] Failed to load resource: the server responded with a status of 404 (Not Found)
+[2026-11-20T04:09:58.938Z] [error] [vite] Failed to reload /src/old/art/primitives.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2026-11-20T04:09:58.938Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:58.938Z] [debug] [vite] hot updated: /src/old/art/primitives.tsx
+[2026-11-20T04:09:59.310Z] [error] Failed to load resource: the server responded with a status of 404 (Not Found)
+[2026-11-20T04:09:59.325Z] [error] [vite] Failed to reload /src/old/art/primitives.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2026-11-20T04:09:59.407Z] [debug] [vite] hot updated: /src/App.tsx
+[2026-11-20T04:09:59.407Z] [debug] [vite] hot updated: /src/old/art/primitives.tsx
+[2026-11-20T04:09:59.407Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:59.412Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:59.427Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:59.435Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:59.448Z] [debug] [vite] hot updated: /src/App.tsx
+[2026-11-20T04:09:59.449Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:09:59.528Z] [debug] [vite] connecting...
+[2026-11-20T04:09:59.530Z] [debug] [vite] connected.
+[2026-11-20T04:10:00.776Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:10:01.541Z] [debug] Search endpoint requested!
+[2026-11-20T04:10:16.376Z] [debug] [vite] connecting...
+[2026-11-20T04:10:16.387Z] [debug] [vite] connected.
+[2026-11-20T04:10:17.107Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:10:20.147Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:10:21.753Z] [debug] [vite] connecting...
+[2026-11-20T04:10:21.814Z] [debug] [vite] connected.
+[2026-11-20T04:10:21.878Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:10:23.525Z] [debug] [vite] connecting...
+[2026-11-20T04:10:23.533Z] [debug] [vite] connected.
+[2026-11-20T04:10:23.657Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:10:35.032Z] [debug] Search endpoint requested!
+[2026-11-20T04:11:40.874Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T04:11:40.876Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:11:42.124Z] [debug] [vite] connecting...
+[2026-11-20T04:11:42.132Z] [debug] [vite] connected.
+[2026-11-20T04:11:42.273Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:11:44.916Z] [debug] Search endpoint requested!
+[2026-11-20T04:11:48.098Z] [debug] [vite] connecting...
+[2026-11-20T04:11:48.101Z] [debug] [vite] connected.
+[2026-11-20T04:11:48.218Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:11:51.830Z] [debug] Search endpoint requested!
+[2026-11-20T04:12:06.708Z] [debug] [vite] connecting...
+[2026-11-20T04:12:06.712Z] [debug] [vite] connected.
+[2026-11-20T04:12:06.838Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:12:10.380Z] [debug] Search endpoint requested!
+[2026-11-20T04:12:30.542Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:13:19.600Z] [debug] [vite] connecting...
+[2026-11-20T04:13:19.706Z] [debug] [vite] connected.
+[2026-11-20T04:13:19.815Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:13:20.515Z] [debug] Search endpoint requested!
+[2026-11-20T04:13:21.707Z] [debug] [vite] connecting...
+[2026-11-20T04:13:21.712Z] [debug] [vite] connected.
+[2026-11-20T04:13:21.839Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:14:04.940Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T04:14:04.941Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:14:05.040Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:14:05.040Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:14:06.071Z] [debug] [vite] connecting...
+[2026-11-20T04:14:06.184Z] [debug] [vite] connected.
+[2026-11-20T04:14:06.251Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:15:36.196Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:15:36.242Z] [debug] [vite] hot updated: /src/App.tsx
+[2026-11-20T04:15:36.242Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:15:47.925Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T04:15:47.925Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:15:58.231Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:15:58.231Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:23.338Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T04:16:23.338Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:23.411Z] [debug] [vite] hot updated: /src/sections/FeastScene.tsx
+[2026-11-20T04:16:23.411Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:23.415Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T04:16:23.415Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:23.426Z] [debug] [vite] hot updated: /src/sections/VenueSection.tsx
+[2026-11-20T04:16:23.426Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:23.430Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:16:23.430Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:23.436Z] [debug] [vite] hot updated: /src/sections/FooterSection.tsx
+[2026-11-20T04:16:23.436Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:23.447Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:16:23.447Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:16:24.398Z] [debug] [vite] connecting...
+[2026-11-20T04:16:24.465Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:16:24.747Z] [debug] [vite] connected.
+[2026-11-20T04:17:33.064Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:17:33.066Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T04:17:33.073Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T04:17:33.073Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T04:17:33.073Z] [debug] [vite] hot updated: /src/sections/VenueSection.tsx
+[2026-11-20T04:17:33.073Z] [debug] [vite] hot updated: /src/sections/FooterSection.tsx
+[2026-11-20T04:17:33.073Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:17:33.073Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:17:33.073Z] [debug] [vite] invalidate /src/components/Countdown.tsx: Could not Fast Refresh ("useCountdown" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2026-11-20T04:17:33.073Z] [debug] [vite] hot updated: /src/components/Countdown.tsx
+[2026-11-20T04:17:33.085Z] [debug] [vite] hot updated: /src/sections/FeastScene.tsx
+[2026-11-20T04:17:33.086Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:17:33.087Z] [debug] [vite] hot updated: /src/sections/SaveDateScene.tsx
+[2026-11-20T04:17:33.087Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:17:33.087Z] [debug] [vite] hot updated: /src/sections/RitualsScene.tsx
+[2026-11-20T04:17:33.087Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:17:33.090Z] [debug] [vite] hot updated: /src/sections/Interlude.tsx
+[2026-11-20T04:17:33.091Z] [debug] [vite] hot updated: /src/sections/PanoHero.tsx
+[2026-11-20T04:17:33.091Z] [debug] [vite] hot updated: /src/sections/VarmalaDoors.tsx
+[2026-11-20T04:17:34.067Z] [debug] [vite] connecting...
+[2026-11-20T04:17:34.072Z] [debug] [vite] connected.
+[2026-11-20T04:17:34.133Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:17:36.779Z] [debug] Search endpoint requested!
+[2026-11-20T04:17:39.940Z] [debug] [vite] connecting...
+[2026-11-20T04:17:39.942Z] [debug] [vite] connected.
+[2026-11-20T04:17:39.945Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:17:42.525Z] [debug] [vite] connecting...
+[2026-11-20T04:17:42.529Z] [debug] [vite] connected.
+[2026-11-20T04:17:42.534Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:17:54.227Z] [debug] Search endpoint requested!
+[2026-11-20T04:18:18.139Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:19:43.058Z] [debug] [vite] connecting...
+[2026-11-20T04:19:43.200Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:19:44.965Z] [debug] [vite] connected.
+[2026-11-20T04:19:45.417Z] [debug] [vite] connecting...
+[2026-11-20T04:19:45.424Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:19:45.691Z] [debug] [vite] connected.
+[2026-11-20T04:20:00.082Z] [debug] Search endpoint requested!
+[2026-11-20T04:20:01.670Z] [debug] [vite] connecting...
+[2026-11-20T04:20:01.790Z] [debug] [vite] connected.
+[2026-11-20T04:20:01.790Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:20:15.248Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:21:34.482Z] [debug] [vite] connecting...
+[2026-11-20T04:21:34.487Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:21:35.574Z] [debug] [vite] connected.
+[2026-11-20T04:22:03.506Z] [debug] [vite] connecting...
+[2026-11-20T04:22:03.589Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:22:04.841Z] [debug] [vite] connected.
+[2026-11-20T04:23:17.317Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:23:38.336Z] [debug] [vite] connecting...
+[2026-11-20T04:23:38.337Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:23:38.523Z] [debug] [vite] connected.
+[2026-11-20T04:23:40.503Z] [debug] [vite] connecting...
+[2026-11-20T04:23:40.521Z] [debug] [vite] connected.
+[2026-11-20T04:23:40.584Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:23:56.847Z] [debug] [vite] connecting...
+[2026-11-20T04:23:56.851Z] [debug] [vite] connected.
+[2026-11-20T04:23:57.000Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:24:20.877Z] [debug] [vite] hot updated: /src/sections/Journey.tsx
+[2026-11-20T04:24:20.877Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:24:21.932Z] [debug] [vite] connecting...
+[2026-11-20T04:24:21.940Z] [debug] [vite] connected.
+[2026-11-20T04:24:22.164Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:24:38.792Z] [debug] [vite] connecting...
+[2026-11-20T04:24:38.798Z] [debug] [vite] connected.
+[2026-11-20T04:24:38.951Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:24:56.955Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:26:56.005Z] [debug] [vite] connecting...
+[2026-11-20T04:26:56.018Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:26:57.485Z] [debug] [vite] connecting...
+[2026-11-20T04:26:57.624Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:26:59.855Z] [debug] [vite] connecting...
+[2026-11-20T04:26:59.868Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:27:02.877Z] [debug] Search endpoint requested!
+[2026-11-20T04:27:03.886Z] [debug] [vite] connected.
+[2026-11-20T04:27:08.023Z] [debug] [vite] connecting...
+[2026-11-20T04:27:08.072Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:27:10.336Z] [debug] [vite] connecting...
+[2026-11-20T04:27:10.350Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:27:12.995Z] [debug] Search endpoint requested!
+[2026-11-20T04:27:14.446Z] [debug] [vite] connected.
+[2026-11-20T04:28:04.221Z] [debug] [vite] hot updated: /src/sections/VenueSection.tsx
+[2026-11-20T04:28:04.221Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:28:04.689Z] [debug] Search endpoint requested!
+[2026-11-20T04:28:34.876Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:28:34.877Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:28:39.262Z] [debug] [vite] connecting...
+[2026-11-20T04:28:39.274Z] [debug] [vite] connected.
+[2026-11-20T04:28:39.400Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:28:41.648Z] [debug] [vite] connecting...
+[2026-11-20T04:28:41.713Z] [debug] [vite] connected.
+[2026-11-20T04:28:41.765Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:28:44.636Z] [debug] Search endpoint requested!
+[2026-11-20T04:28:51.155Z] [debug] [vite] connecting...
+[2026-11-20T04:28:51.284Z] [debug] [vite] connected.
+[2026-11-20T04:28:51.286Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:28:53.534Z] [debug] [vite] connecting...
+[2026-11-20T04:28:53.537Z] [debug] [vite] connected.
+[2026-11-20T04:28:53.539Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:28:56.088Z] [debug] Search endpoint requested!
+[2026-11-20T04:29:13.449Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:29:13.449Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:29:14.635Z] [debug] [vite] connecting...
+[2026-11-20T04:29:14.638Z] [debug] [vite] connected.
+[2026-11-20T04:29:14.780Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:29:17.387Z] [debug] Search endpoint requested!
+[2026-11-20T04:29:20.627Z] [debug] [vite] connecting...
+[2026-11-20T04:29:20.638Z] [debug] [vite] connected.
+[2026-11-20T04:29:20.718Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:29:23.282Z] [debug] Search endpoint requested!
+[2026-11-20T04:29:36.759Z] [debug] [vite] hot updated: /src/sections/RsvpSection.tsx
+[2026-11-20T04:29:36.759Z] [debug] [vite] hot updated: /src/index.css
+[2026-11-20T04:29:38.157Z] [debug] [vite] connecting...
+[2026-11-20T04:29:38.159Z] [debug] [vite] connected.
+[2026-11-20T04:29:38.292Z] [info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[2026-11-20T04:29:40.950Z] [debug] Search endpoint requested!
+[2026-11-20T04:29:45.620Z] [log] [vite] server connection lost. Polling for restart...
+[2026-11-20T04:30:29.730Z] [debug] Search endpoint requested!
